@@ -66,16 +66,7 @@ clean_water_project/
    ```bash
    python scripts/plot_gdp_vs_water.py
    ```
-
----
-
-## 📊 Example Output
-
-*(Insert chart images from your `plots/` folder)*  
-```markdown
-![GDP vs Water Access](plots/gdp_vs_water_access.png)
-```
-
+   
 ---
 
 ## 📈 Key Insights
@@ -96,3 +87,4 @@ clean_water_project/
 **Shishir Nanga**  
 - [LinkedIn](https://www.linkedin.com/in/shishir-nanga)  
 - [GitHub](https://github.com/shishirnanga)  
+
